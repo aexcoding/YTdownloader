@@ -1,7 +1,7 @@
 # YTdownloader
 a youtube downloader in python3
 
-# installation
+## installation
 
 git clone https://github.com/aexcoding/YTdownloader.git
 
